@@ -1,2 +1,2 @@
 # django-cliente-master
-Alura Django Rest
+Django Rest Project for practice
